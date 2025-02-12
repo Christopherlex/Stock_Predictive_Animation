@@ -1,5 +1,16 @@
-Input: Stock price data and timeframe
+# Stock Predictive Animation 📈🎥
 
-Process: Data processing, technical analysis, dynamic thresholding, trendline prediction, and buy/sell signal generation.
+This project uses **adaptive learning**, **MACD**, and **RSI** to predict Indonesian stock market movements.
 
-Output: Buy/sell signals, predicted stock prices, evaluation metrics like accuracy.
+## 🚀 Features
+- Candlestick visualization with MACD & RSI
+- Buy/Sell signal detection
+- Dynamic support & resistance
+- Animation of stock trends
+
+## 🔧 Installation
+1. Clone the repository: https://github.com/your-username/Stock_Predictive_Animation.git
+2. Install dependencies:
+3. Run the Jupyter Notebook: MACD_RSI_PREDICTIVE_ANIMATION.ipynb
+   
+Enjoy !
