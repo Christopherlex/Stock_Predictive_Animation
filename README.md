@@ -9,7 +9,7 @@ This project uses **adaptive learning**, **MACD**, and **RSI** to predict Indone
 - Animation of stock trends
 
 ## 🔧 Installation
-1. Clone the repository: https://github.com/your-username/Stock_Predictive_Animation.git
+1. Clone the repository: https://github.com/Christopherlex/Stock_Predictive_Animation.git
 2. Install dependencies:
 3. Run the Jupyter Notebook: MACD_RSI_PREDICTIVE_ANIMATION.ipynb
    
